@@ -1,4 +1,6 @@
 /****************************************************************
+ * http://moodle.infsec.am/pluginfile.php/572/mod_resource/content/1/7.%20Bitwise%20Operators.pdf  
+ *
  * Homework Bitwise Operators: 1
  * Problem1.java //
  * Solution 1
